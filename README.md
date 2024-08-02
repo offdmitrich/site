@@ -1,1 +1,1 @@
-# site
+# Site with GitHub Pages
